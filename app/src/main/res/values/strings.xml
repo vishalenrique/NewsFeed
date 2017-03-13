@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">News Feed</string>
+    <string name="internet">Check the internet connection</string>
+
+    <string name="settings_category_label">Category</string>
+    <string name="settings_order_by_key" translatable="false">category</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_world_value</string>
+
+    <string name="abc">World</string>
+    <string name="settings_world_value" translatable="false">world</string>
+
+    <string name="settings_sport_label">Sport</string>
+    <string name="settings_sport_value" translatable="false">sport</string>
+
+    <string name="settings_football_label">Football</string>
+    <string name="settings_football_value" translatable="false">football</string>
+
+    <string name="settings_culture_label">Culture</string>
+    <string name="settings_culture_value" translatable="false">culture</string>
+
+    <string name="settings_business_label">Business</string>
+    <string name="settings_business_value" translatable="false">business</string>
+
+    <string name="settings_fashion_label">Fashion</string>
+    <string name="settings_fashion_value" translatable="false">fashion</string>
+
+    <string name="settings_environment_label">Environment</string>
+    <string name="settings_environment_value" translatable="false">environment</string>
+
+    <string name="settings_travel_label">Travel</string>
+    <string name="settings_travel_value" translatable="false">travel</string>
+    <string name="settings_menu_item">Settings</string>
+
+</resources>
